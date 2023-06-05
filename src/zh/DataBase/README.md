@@ -48,6 +48,6 @@ features:
   link: /Database/HBase.md
 
 copyright: false
-footer: MIT Licensed | Copyright © 2019-present Drizzle
+footer: Java Docs | MIT Licensed, Copyright © 2019-present DrizzleTow
 ---
 

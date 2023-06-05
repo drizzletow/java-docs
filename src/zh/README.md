@@ -54,6 +54,11 @@ features:
   details: 了解不同类型的设计模式，并在适当的情况下应用它们，可以提高代码的质量和可维护性.
   link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
 
+- title: 面试手册
+  icon: article
+  details: 记录Java中常用的面试题分析及解答，强化算法，加深记忆，面试必备.
+  link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
+
 - title: 公共笔记
   icon: others
   details: 记录一些常用的软件和工具的下载地址和使用技巧，以及一些不便分类的内容.
@@ -65,5 +70,5 @@ features:
   link: https://theme-hope.vuejs.press/zh/
 
 copyright: false
-footer: Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed, Copyright © 2019-present Mr.Hope
+footer: Java Docs | MIT Licensed, Copyright © 2019-present DrizzleTow
 ---

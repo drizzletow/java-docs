@@ -57,7 +57,7 @@ features:
   details: AngularJS is a JavaScript-based web application framework developed by Google. It is designed to simplify the development of dynamic single-page applications (SPAs).
   link: /Front-end/angular
 
-- title: Vue框架
+- title: Vue
   icon: vue
   details: Vue.js, commonly referred to as Vue, is a progressive JavaScript framework for building user interfaces. It is designed to be approachable, flexible, and highly performant.
   link: /Front-end/vue
@@ -68,7 +68,7 @@ features:
   link: /Front-end/uniapp
 
   copyright: true
-  footer: MIT Licensed | Copyright © 2019-present itdrizzle
+  footer: Java Docs | MIT Licensed, Copyright © 2019-present DrizzleTow
 ---
 
 other text

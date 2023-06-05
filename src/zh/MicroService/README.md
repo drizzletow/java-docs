@@ -18,7 +18,7 @@ features:
   link: https://vuepress-theme-hope.github.io/v2/zh/guide/layout/slides
 
   copyright: false
-  footer: MIT Licensed | Copyright © 2019-present drizzle
+  footer: Java Docs | MIT Licensed, Copyright © 2019-present DrizzleTow
 ---
 
 这是项目主页的案例。你可以在这里放置你的主体内容。
