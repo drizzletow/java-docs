@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: Java Docs
-heroImage: /logo.svg
-heroText: Develop Note
-tagline: My Java Develop Record.
+title: Home
+heroImage: /assets/img/cloud.jpg
+heroText: Java Develop Note
+tagline:  Java development record of a Java full-stack engineer and introduction to some develop tool.
 actions:
   - text: Reading 💡
     link: /demo/
@@ -14,87 +14,52 @@ actions:
     link: /guide/
 
 features:
-  - title: Markdown Enhance
-    icon: markdown
-    details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in markdown
+  - title: Development Tools
+    icon: tool
+    details: Have a basic understanding of tool with knowledge of Java and Front-end Development Tools
     link: https://theme-hope.vuejs.press/guide/markdown/
 
-  - title: Slide page
-    icon: slides
+  - title: Version control
+    icon: git
     details: Adding slide pages to display things you like
     link: https://theme-hope.vuejs.press/guide/layout/slides.html
 
-  - title: Layout enhancement
-    icon: layout
-    details: Adding breadcrumb, footer, improved navbar, improved page nav and etc.
+  - title: Common Linux Commands
+    icon: linux
+    details: Frequently Used Linux Commands, such as ls, cd, cat and etc.
     link: https://theme-hope.vuejs.press/guide/layout/
 
-  - title: Pageviews and comments
-    icon: comment
-    details: Start pageview statistics and comment support with Waline
-    link: https://theme-hope.vuejs.press/guide/feature/comment.html
-
-  - title: Article information
-    icon: info
-    details: Add author, writing date, reading time, word count and other information to your article
-    link: https://theme-hope.vuejs.press/guide/feature/page-info.html
-
-  - title: Blog support
-    icon: blog
-    details: Listing your articles with their dates, tags and categories with some awesome layouts
-    link: https://theme-hope.vuejs.press/guide/blog/
-
-  - title: Custom theme color
-    icon: palette
-    details: Supports custom theme colors and allows users to switch between preset theme colors
+  - title: Software Testing
+    icon: box 
+    details: Basic software testing principles and commonly used testing frameworks to write unit tests and integration tests.
     link: https://theme-hope.vuejs.press/guide/interface/theme-color.html
 
-  - title: Dark Mode
-    icon: contrast
-    details: Switch between light and dark modes freely
+  - title: Web Security
+    icon: safe
+    details: Be aware of common web security issues and mitigation measures, such as Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), authentication and authorization mechanisms.
     link: https://theme-hope.vuejs.press/guide/interface/darkmode.html
 
-  - title: Full A11y support
-    icon: support
-    details: Full support of accessibility in your site
+  - title: Deployment and Operations
+    icon: loop
+    details: Basic deployment and operations technologies such as containerization (Docker), automated deployment, and continuous integration / continuous delivery (CI/CD).
     link: https://theme-hope.vuejs.press/guide/interface/accessibility.html
 
-  - title: Article Encryption
-    icon: lock
+  - title: Networking fundamentals
+    icon: network
     details: Encrypt you articles based on page links, so that only the one you want could see them
     link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
 
-  - title: Copy button
-    icon: copy
+  - title: Common design patterns
+    icon: symbol
     details: Copy codes with one click in code blocks
     link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
 
-  - title: Image preview
-    icon: pic
-    details: Support viewing, zooming, sharing your page images like a gallery
-    link: https://theme-hope.vuejs.press/guide/feature/photo-swipe.html
-
-  - title: SEO enhancement
-    icon: config
-    details: Optimize pages for search engines
-    link: https://theme-hope.vuejs.press/guide/advanced/seo.html
-
-  - title: Sitemap
-    icon: sitemap
-    details: Generate a Sitemap for your site
-    link: https://theme-hope.vuejs.press/guide/advanced/sitemap.html
-
-  - title: Feed support
-    icon: rss
-    details: Generate feed to allow users to subscribe it
-    link: https://theme-hope.vuejs.press/guide/advanced/feed.html
-
-  - title: PWA support
-    icon: mobile
+  - title: Common note
+    icon: others
     details: Make your site more like an APP
     link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
-  - title: VuePress Theme Hope
+  - title: Theme Hope
     icon: more
     details: A VuePress theme with tons of features✨
     link: https://theme-hope.vuejs.press/zh/
