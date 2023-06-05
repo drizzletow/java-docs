@@ -21,7 +21,7 @@ features:
 
   - title: Version control
     icon: git
-    details: Adding slide pages to display things you like
+    details: Enabling efficient collaboration, managing changes, and ensuring the integrity and reliability of a project's codebase.
     link: https://theme-hope.vuejs.press/guide/layout/slides.html
 
   - title: Common Linux Commands
@@ -46,12 +46,12 @@ features:
 
   - title: Networking fundamentals
     icon: network
-    details: Encrypt you articles based on page links, so that only the one you want could see them
+    details: Network protocols and standards: a set of specifications that define the format, transmission, and interaction of data in a network . For example, TCP/IP, HTTP, DNS, etc.
     link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
 
   - title: Common design patterns
     icon: symbol
-    details: Copy codes with one click in code blocks
+    details: Design patterns can help software engineers to communicate more efficiently, standardize interfaces, simplify complex problems, and improve code quality.
     link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
 
   - title: Interview Handbook
@@ -61,7 +61,7 @@ features:
 
   - title: Common note
     icon: others
-    details: Make your site more like an APP
+    details: Record some commonly used software and tools download address and use skills, as well as some inconvenient classification of content.
     link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
   - title: Theme Hope
