@@ -46,12 +46,12 @@ features:
 
   - title: Networking fundamentals
     icon: network
-    details: Network protocols and standards: a set of specifications that define the format, transmission, and interaction of data in a network . For example, TCP/IP, HTTP, DNS, etc.
+    details: A set of specifications that define the format,transmission,and interaction of data in a network. For example,TCP/IP,HTTP,DNS,etc.
     link: https://theme-hope.vuejs.press/guide/feature/encrypt.html
 
   - title: Common design patterns
     icon: symbol
-    details: Design patterns can help software engineers to communicate more efficiently, standardize interfaces, simplify complex problems, and improve code quality.
+    details: Design patterns can help software engineers to communicate more efficiently,standardize interfaces,simplify complex problems,and improve code quality.
     link: https://theme-hope.vuejs.press/guide/feature/copy-code.html
 
   - title: Interview Handbook
