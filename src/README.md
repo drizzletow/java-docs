@@ -61,7 +61,7 @@ features:
 
   - title: Common note
     icon: others
-    details: Record some commonly used software and tools download address and use skills, as well as some inconvenient classification of content.
+    details: Record some commonly used software and tools download address and use skills,as well as some inconvenient classification of content.
     link: https://theme-hope.vuejs.press/guide/advanced/pwa.html
 
   - title: Theme Hope
